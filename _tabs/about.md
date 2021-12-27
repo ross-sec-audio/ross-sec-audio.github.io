@@ -17,4 +17,4 @@ This website includes projests relating to:
   - & general tech things
 - Music Composition & Production
 - Politics & Social Science
-- Art.
+- Art
