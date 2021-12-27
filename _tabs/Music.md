@@ -1,5 +1,5 @@
 ---
-title: Audio Production
+title: Music Production
 icon: fas fa-info-circle
 order: 2
 ---
