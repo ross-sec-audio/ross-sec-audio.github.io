@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-Ross Prendergast is an information security professional, who also likes working on music composition and audio production. 
+Ross Prendergast is an information security professional, who also likes producing music. 
 
 Living in Sheffield, UK, his goal here is to collaborate with nice people and to create fun and interesting projects.
 
