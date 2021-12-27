@@ -11,11 +11,11 @@ Hey there!
 
 I've created this site so I've a single place to showcase the silly things I've written and developed. 
 
-I'm hosting this site using [Github Pages](https://pages.github.com/ "Github Pages") and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
+I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
 ___
 
 ### I'm going to use this site to chat about
-I'm interested in lots of stuff but I'm planning to mainly discuss the following topics:
+I'm interested in lots of stuff, but I'm planning to mainly discuss the following topics:
 
 1. Information Security
 2. Programming & Development
