@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
 Ross Prendergast is an infoSec professional with a background in audio engineering and production. 
