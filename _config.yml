@@ -23,10 +23,8 @@ title: Ross Prendergast                          # the main title
 tagline: Information Security & Audio Production   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Ross Prendergast is an infoSec professional with a background in 
-  audio engineering and production. Living in Sheffield, UK, his 
-  goal is to collaborate with nice people and to create fun and interesting 
-  content, including security research, music production, politics and art.
+  Ross Prendergast's personal website and blog covering
+  information security research, music production, politics and art.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://ross-sec-audio.github.io/
