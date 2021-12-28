@@ -5,6 +5,7 @@ order: 2
 ---
 
 In 2010, I completed my masters degree in Music Composition and Computer Music. Since then I have been working in IT and InfoSec, but still love writing, producing and playing music.
+
 ___
 
 ## Some of my Music
