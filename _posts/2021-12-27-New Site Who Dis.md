@@ -12,6 +12,7 @@ Hey there!
 I've created this site so I've a single place to showcase the silly things I've written and developed. 
 
 I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
+
 ___
 
 ## I'm going to use this site to chat about
