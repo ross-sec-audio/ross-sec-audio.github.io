@@ -3,5 +3,5 @@ layout: categories
 title: Categories
 icon: fas fa-stream
 order: 4
-visible: 1
+active: false
 ---
