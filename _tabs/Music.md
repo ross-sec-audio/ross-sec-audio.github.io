@@ -2,7 +2,7 @@
 title: Music Production
 icon: fas fa-info-circle
 order: 2
-tag: [music production]
+tags: [music production]
 ---
 
 

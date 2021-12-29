@@ -2,7 +2,7 @@
 title: Information Security
 icon: fas fa-info-circle
 order: 1
-tag: [infoSec]
+tags: [infoSec]
 ---
 
 > **Note**: Add InfoSec thoughts and projects here
