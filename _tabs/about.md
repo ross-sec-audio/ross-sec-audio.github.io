@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 6
+order: 5
 ---
 
 Ross Prendergast is an information security professional, who also likes producing music. 

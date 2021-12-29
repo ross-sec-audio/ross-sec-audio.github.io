@@ -1,7 +1,6 @@
 ---
 title: New Site, Who Dis??
 date: 2021-12-27
-categories: [Overview]
 tags: [welcome]     # TAG names should always be lowercase
 pin: true
 ---
