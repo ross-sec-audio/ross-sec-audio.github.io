@@ -12,12 +12,12 @@ ___
 
 Below I've included links to some music I've produced using Ableton Live.
 
-- [Vermillion](#Vermillion)
-- [Carnacopia](#Carnacopia)
-- [Uncertainty](#Uncertainty)
-- [Entropy](#Entropy)
-- [Type 2](#Type-2)
-- [Rezon](#Rezon)
+- [Vermillion](#Vermillion) - DubStep Electronica
+- [Carnacopia](#Carnacopia) - Guitar Experimental 
+- [Uncertainty](#Uncertainty) - Guitar Alternative Rock
+- [Entropy](#Entropy) - Liquid Drum & Bass
+- [Type 2](#Type-2) - Electronic
+- [Rezon](#Rezon) - Electronic
 - [Moloko - Knee Deepen (Remix)](#Moloko)
 - [RadioHead - Reckoner (Remix)](#Radiohead)
 
