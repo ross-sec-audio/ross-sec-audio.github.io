@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Archives
+title: Blog Archives
 icon: fas fa-archive
 order: 3
 ---
