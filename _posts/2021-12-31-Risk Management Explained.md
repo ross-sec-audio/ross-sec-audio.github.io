@@ -95,10 +95,10 @@ To ensure your Risk Management framework continuously improves, it should take t
 
 The following is an example of a risk management cycle
 
-![Risk Lifecycle](/assets/img/imgs/risk-lifecycle.png){: width="700" height="400" }
+![Risk Lifecycle](/assets/img/imgs/risk_lifecycle.png){: width="700" height="400" }
 _Risk Lifecycle_
 
-### 1. Identification 
+#### 1. Identification 
 Risks are identified flexibly, through several sources including
 - Threat Intelligence
 - Business Impact Assessments
@@ -108,7 +108,7 @@ Risks are identified flexibly, through several sources including
 - Incident & Change Management
 - Responsible Disclosure
 
-### 2. Description 
+#### 2. Description 
 Risks will be described using the following format
 <br>
 A. Context  - Assets, Threats, etc. <br>
@@ -119,7 +119,7 @@ This format will ensure that:
 You have a clear, agreed and documented explanation of the risk
 You have a documented justification for the chosen risk rating
 
-### 3. Initial Measurement 
+#### 3. Initial Measurement 
 Quantitative Ratings will be assigned to each Risk, covering impact & likelihood.
 
 The following example could be used:
@@ -133,33 +133,33 @@ Likelihood score - 1 - 4: Going from Low to Very High
 Risk = Impact x Likelihood (+ Threat Rating)
 ~~~
 
-![Risk Rating](/assets/img/imgs/risk-rating.png){: width="700" height="400" }
+![Risk Rating](/assets/img/imgs/risk_rating.png){: width="700" height="400" }
 _Risk Rating_
 
 The above example gives us a score between 1 and 16.
 
 Ratings will provide us with a consistent way to prioritise our treatment plans.
 
-### 4. Description & Initial Rating Approval
+#### 4. Description & Initial Rating Approval
 Risk Descriptions & Ratings are shared with relevant stakeholders and are formally agreed upon.
 
-### 5. Treatment Plan Creation
+#### 5. Treatment Plan Creation
 To address the identified Risks, Treatment plans are created collaboratively with stakeholders.
 
-### 6. Treatment Plan Approval
+#### 6. Treatment Plan Approval
 Treatment plans are shared with relevant stakeholders and are formally agreed upon.
 
-### 7. Estimated Residual Risk Approval
+#### 7. Estimated Residual Risk Approval
 The Treatment Plan will indicate a level of risk reduction and may include a residual risk that is not addressed in the Treatment Plan.
 
 This residual risk will need to be approved, by an appropriate governing board or committee to confirm that the organisation is happy with the approach to address the identified risks and that they are happy to accept the residual risk.
 
-### 8. Treatment Plans Started & Progress Tracking
+#### 8. Treatment Plans Started & Progress Tracking
 Once approvals have been sought, the treatment plan is passed to the already agreed implementer/owner to deliver.
 
 Progress in line with agreed deadlines and deliverables is tracked and monitored.
 
-### 9. Reporting & Escalation
+#### 9. Reporting & Escalation
 Security Reports of various levels and types are written in agreed schedules and are presented at appropriate governance boards and to key personnel.
 Security Reports will include key metrics including:
 - Significant changes in the threat landscape
@@ -168,12 +168,12 @@ Security Reports will include key metrics including:
 - Escalations where progress is delayed or there is a blocker/impediment in place
 - Decisions & approvals for the appropriate governance board/personnel
 
-### 10. Milestones Reached in Treatment Plans
+#### 10. Milestones Reached in Treatment Plans
 Significant progress or the complete delivery of treatment plans, in the form of newly delivered controls and capabilities will be added to the Existing Controls section of the organisation's Risk Register.
 The risk rating of this given row of the register will also be appropriately reduced.
 Appropriate stakeholders must agree on the reduction of the risk rating.
 
-### 11. Residual Risk Re-Review
+#### 11. Residual Risk Re-Review
 Once a Treatment Plan is completely delivered, the residual risk should be re-reviewed and addressed where possible.
 Appropriate stakeholders should confirm whether the residual risk can continue to be accepted or if it needs to be addressed in the short, medium or long term.
 The process for approving these decisions is as above - Residual 
