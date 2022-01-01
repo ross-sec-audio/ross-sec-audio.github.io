@@ -95,7 +95,7 @@ To ensure your Risk Management framework continuously improves, it should take t
 
 The following is an example of a risk management cycle
 
-![Risk Lifecycle](/assets/img/imgs/risk_lifecycle.png){: width="700" height="400" }
+![Risk Lifecycle](/assets/img/imgs/risk_lifecycle.PNG)
 _Risk Lifecycle_
 
 #### 1. Identification 
@@ -133,7 +133,7 @@ Likelihood score - 1 - 4: Going from Low to Very High
 Risk = Impact x Likelihood (+ Threat Rating)
 ~~~
 
-![Risk Rating](/assets/img/imgs/risk_rating.png){: width="700" height="400" }
+![Risk Rating](/assets/img/imgs/risk_rating.PNG)
 _Risk Rating_
 
 The above example gives us a score between 1 and 16.
