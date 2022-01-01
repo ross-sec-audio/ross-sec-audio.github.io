@@ -1,46 +1,34 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# Ross-Sec-Audio Site
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+This is my personal site (Ross Prendergast).
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+My goal here is to collaborate with nice people and to create fun and interesting projects.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+This website includes projects relating to:
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+- Information Security Research 
+- Other infoSec/IT/development projects
+- Music Composition & Production
+- My opinions on Politics & Social Science
+- My opinions on art
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### The Purpose of this Site
 
-## Prerequisites
+I've created this site as a single place to showcase the silly things I've written and developed. 
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
 
-## Installation
+I'm using this site in an attempt to improve my understanding of the topics I cover and to improve upon my writing and communication skills. 
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+There's nothing like hard-earned practice so here we go, warts and all. 
 
-Then clone it to your local machine and run:
+The views and opinions on this site are my own and are not representative of my employer(s).
 
-```
-$ bundle
-```
+### About this Site
 
-## Usage
+I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). 
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#usage).
+This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
 
-## License
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+> **Note**: To contact Ross please get in touch: [Email](mailto:info@example.com "Email me")

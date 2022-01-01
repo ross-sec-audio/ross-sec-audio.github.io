@@ -20,7 +20,7 @@ This website includes projects relating to:
 
 ### The Purpose of this Site
 
-I've created this site so I've a single place to showcase the silly things I've written and developed.
+I've created this site as a single place to showcase the silly things I've written and developed. 
 
 With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
 
