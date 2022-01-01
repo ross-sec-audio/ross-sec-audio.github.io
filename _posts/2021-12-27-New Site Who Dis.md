@@ -10,6 +10,12 @@ Hey there!
 
 I've created this site so I've a single place to showcase the silly things I've written and developed. 
 
+With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
+
+I'm using this site in an attempt to improve my understanding of the topics I cover and to improve upon my writing and communication skills. 
+
+There's nothing like hard-earned practice so here we go, warts and all. 
+
 I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
 
 ___
