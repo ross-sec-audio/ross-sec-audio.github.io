@@ -8,7 +8,7 @@ This website includes projects relating to:
 
 - Information Security Research 
 - Other infoSec/IT/development projects
-- Music Composition & Production
+- Music Composition & Production    
 - My opinions on Politics & Social Science
 - My opinions on art
 
