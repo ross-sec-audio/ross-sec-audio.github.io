@@ -54,23 +54,36 @@ Gap analyses are useful in demonstrating where an org needs work to improve its 
 #### Risk Management Basics
 The following section describes how Risk Management methodologies, when used correctly, can address the shortcomings of Maturity Models and Gap Analyses.
 
+>"When Risk Management is implemented correctly it will include feedback loops at each stage of the framework, ensuring continuous improvement of the whole framework and the treatment of identified risks."
+
 To accurately explain this, I'll first outline a number of key Risk Management concepts and terms:
 
 | **Term** | **Description** |
 |--|--|
-| Threat | Any circumstance, event or actor with the potential to harm an organisation through unauthorized access, destruction, disclosure, modification of product, data and/or denial of service. |
-| Vulnerability | A weakness in an information system, process, internal control or implementation that could be exploited or triggered by a threat source.|
-|Likelihood | This is the probability that a risk will manifest through exploitation of a vulnerability.
-| Impact | Impact is the total damage the organisation would incur if a vulnerability were exploited by a threat. | 
-| Proximity | Certain risks may have a window of time during which they will occur. The proximity describes how immediate the exploitation of a given risk is. This is different to likelihood as a risk may be understood to definitely manifest, but this it may be known that this might not happen for a number of months.|
+| Threat | Any circumstance, event or actor with the potential to harm an organisation through unauthorised access, destruction, disclosure, modification of asset and/or denial of service. |
+| Vulnerability | A weakness in an information system, process, internal control or implementation that could be exploited or triggered by a threat.|
+|Likelihood | This is the probability that a risk will manifest through the exploitation of a vulnerability.
+| Impact | Impact is the total damage an organisation would incur if a vulnerability were exploited by a threat (i.e. if a risk is manifested). | 
+| Proximity | Certain risks may have a window of time during which they will occur. The proximity describes how immediate the exploitation of a given risk is. This is different to likelihood as a risk may be understood to definitely manifest, but it may be known that this might not happen for a number of months.|
+
+>**Note**: I'll write separate posts on Threat Modelling and Vulnerability Management, as each of these are beasts in their own right. 
+
+#### Risk Management Benefits
+Often, when you're working in Information Security there are so many projects, reports, queries and incidents that you feel you have little time to think strategically or to properly implement a Risk Management framework.
+
+However, if you take the time to implement and embed Risk Management practices you'll find you're able to improve your time management through consistent prioritisation. This should grant you some space to address your organisation's critical security threats and vulnerabilities, as you'll be able to clearly justify the resource cost.
+
+The following is a list of potential benefits if Risk Management is implemented and embedded correctly
+- An exhaustive view of the security posture of your assets, through defined risk identification and registration methods
+- A consistent and agreed method to describe and measure the criticality of each risk
+- Using the above measurement provides you with a method to consistently prioritise your team’s work (i.e address the big, bad things first)
+- After agreeing the measurements and the prioritisation of treatment, stakeholders can agree on strategic and tactical treatment plans for each identified risk. This grants your team flexible roadmaps for the coming months/years.
+- When treatment plans are completed, their results are added to the existing mitigating controls of a given risk. This new mitigating control will reduce the overall risk and will result in a residual risk rating. This new rating is reviewed by stakeholders to agree whether it can be accepted or if further treatment is required. This process is continuous. 
 
 #### Practical Measurement of Risk
-Often, when you're working in Information Security there are so many projects, reports, queries and incidents that you have little time to properly implement risk management methodologies to improve your operating model.
+Individual risk assessments don't often give you the high level information needed to strategically address an organisation's security shortfalls. This is because discrete risk assessments are often performed against individual processes, products, services, etc. (e.g. a DPIA performed for GDPR compliance).
 
-Individual Risk Assessments don't often give you the high level strategic information to plan a year's work. This is because discrete risk assessments are often performed against new processes, products, services, etc. (e.g. a DPIA). 
-
-Instead, I'd recommend you think about the organisation at a higher level and assess the risks of
-
+Instead, I'd recommend you think about your organisation at a higher level and assess the risks of
 
 - **The organisation's key assets** - What are the organisation's key processes, services, products and other assets? What are the corporate risks to these? And how does information security relate to these corporate risks?
 - **Key calendar events** - Are there any key events throughout the year that if negatively impacted would cost the organisation? If so how could these be negatively affected?
