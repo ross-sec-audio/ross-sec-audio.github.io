@@ -2,7 +2,11 @@
 title: InfoSec Risk Management Explained
 date: 2021-12-31
 tags: [infosec, risk management]     # TAG names should always be lowercase
+excerpt_separator: <!--more-->
 ---
+
+"How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
+<!--more-->
 
 ## Introduction
 The purpose of this article is to clearly describe how Information Security Risk Management can practically and significantly improve the security posture of your organisation. 
