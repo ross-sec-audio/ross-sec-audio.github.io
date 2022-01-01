@@ -5,6 +5,11 @@ order: 1
 tags: [infoSec]
 ---
 
+
+[Information Security Risk Management Explained](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/"Information Security Risk Management Explained")
+
+
+
 > **Note**: Add InfoSec thoughts and projects here
 
 | Items to Include | Description |
