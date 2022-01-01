@@ -1,5 +1,5 @@
 ---
-title: New Site, Who Dis??
+title: Welcome to my Site
 date: 2021-12-27
 tags: [welcome]     # TAG names should always be lowercase
 pin: true
