@@ -5,12 +5,6 @@ order: 2
 tags: [music production]
 ---
 
-
-In 2010, I completed my master's degree in Music Composition and Computer Music. Since then, I have been working in IT and InfoSec, but still love writing, producing and playing music.
-___
-
-## Some of my Music
-
 Below I've included links to some music I've produced using Ableton Live.
 
 - [Vermillion](#Vermillion) - DubStep Electronica
