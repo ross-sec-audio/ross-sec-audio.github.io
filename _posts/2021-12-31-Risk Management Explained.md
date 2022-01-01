@@ -1,15 +1,13 @@
 ---
-title: Risk Management Explained
+title: InfoSec Risk Management Explained
 date: 2021-12-31
 tags: [infosec, risk management]     # TAG names should always be lowercase
 ---
 
-# InfoSec Risk Management - Explained
-
 ## Introduction
 The purpose of this article is to clearly describe how Information Security Risk Management can practically and significantly improve the security posture of your organisation. 
 
-### TLDR
+### TL;DR
 Risk Management provides methodologies to consistently measure an organisation's exposure to threats and vulnerabilities, which allows that org to prioritise required improvements to information security based on pressing needs (i.e. the likelihood and proximity of a risk) and the benefits of those improvements (i.e. the impact). 
 
 However, it must be said that the benefits of this approach will only be realised if the organisation in question explicitly embeds the outputs of Risk Management into its strategic planning and is willing to iterate based on changes to variables therein. 
