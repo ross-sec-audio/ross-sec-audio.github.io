@@ -26,7 +26,7 @@ This page includes links to information security posts along with some helpful r
 
 ___
 
-## [Post 2](https://www.google.ie "Post 2")
+[Post 2](https://www.google.ie "Post 2")
 
 "Example Post"
 
@@ -57,13 +57,13 @@ ___
 
 # Helpful InfoSec Resources
 
-## [SANS Information Security Policy Project](https://www.sans.org/information-security-policy/?msc=main-nav "SANS Information Security Policy Project")
+[SANS Information Security Policy Project](https://www.sans.org/information-security-policy/?msc=main-nav "SANS Information Security Policy Project")
  - A repository of very useful policy templates.
 
-## [Publicly Available ISO Standards](https://ictinstitute.nl/information-security-resources/ "Publicly Available ISO Standards")
+[Publicly Available ISO Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/ "Publicly Available ISO Standards")
 - A repository of free ISO standards to download.
 
-## [Etc.](https://www.google.ie "Etc.")
+[Etc.](https://www.google.ie "Etc.")
 
 
 
