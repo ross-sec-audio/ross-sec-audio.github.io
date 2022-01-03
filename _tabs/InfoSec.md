@@ -11,7 +11,7 @@ This page includes links to information security posts along with some helpful r
 
 ---
 
-## [Information Security Risk Management Explained](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management Explained")
+[Information Security Risk Management Explained](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ " ## Information Security Risk Management Explained")
 
 "How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
 
