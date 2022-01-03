@@ -6,7 +6,7 @@ pin: true
 excerpt_separator: <!--more-->
 ---
 
-> I've created this site to learn and to showcase the silly things I've written and developed.
+> Introduction to this site and the blog.
 <!--more-->
 
 Hey there! 
