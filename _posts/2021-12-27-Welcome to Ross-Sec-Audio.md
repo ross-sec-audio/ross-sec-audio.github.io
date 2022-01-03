@@ -3,11 +3,15 @@ title: Welcome to Ross-Sec-Audio
 date: 2021-12-27
 tags: [welcome]     # TAG names should always be lowercase
 pin: true
+excerpt_separator: <!--more-->
 ---
+
+> I've created this site to learn and to showcase the silly things I've written and developed.
+<!--more-->
 
 Hey there! 
 
-I've created this site as a single place to showcase the silly things I've written and developed. 
+I've created this site to learn and to showcase the silly things I've written and developed. 
 
 I don't claim to be an expert on any topics covered here, so if I've made an error or misunderstood something, please do let me know. I'd be happy to update posts as required, citing your feedback.
 
