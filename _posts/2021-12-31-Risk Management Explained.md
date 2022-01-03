@@ -5,7 +5,7 @@ tags: [infosec, risk management]     # TAG names should always be lowercase
 excerpt_separator: <!--more-->
 ---
 
-> How Information Security Risk Management can practically and significantly improve the security posture of your organisation.
+How Information Security Risk Management can practically and significantly improve the security posture of your organisation.
 <!--more-->
 
 ## Introduction
