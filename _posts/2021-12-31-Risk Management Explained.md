@@ -193,12 +193,12 @@ Once you have designed treatment plans for your identified risks, they will need
 Like before, this approval step should foster accountability in your organisation. 
 
 #### 7. Estimated Residual Risk Approval
-Treatment plan designs will be indicative of a reduction in risk. This estimated reduction should be identified and agreed upon. This may result in a residual risk that is not addressed in by a treatment plan.
+Treatment plan designs should be indicative of a reduction in risk. This estimated reduction should be identified and agreed upon. This may result in a residual risk that is not addressed by a treatment plan.
 
 This residual risk will need to be approved, by an appropriate governing board or committee to confirm that the organisation is happy with the plans and that they are happy to accept the residual risk going forward.
 
 #### 8. Treatment Plans Started & Progress Tracking
-Once the above approvals have been obtained, a treatment plans are passed to their owner for delivery.
+Once the above approvals have been obtained, plans should be passed to their owner for delivery.
 
 Implementation of a treatment plan may not start immediately as it may be put into a team's backlog, depending on the severity. 
 
@@ -214,7 +214,7 @@ Security Reports will include key metrics including:
 - Escalations where progress is delayed or there is a blocker/impediment in place
 - Decisions & approvals for the appropriate governance board/personnel
 
-This step should foster accountability in your organisation. Without it treatment plans could be deprioritised without approval or oversight.
+This step should foster accountability in your organisation. Without it, treatment plans could be deprioritised without approval or oversight.
 
 #### 10. Milestones Reached in Treatment Plans
 When significant progress is made or a treatment plan is completely implemented, a description of these new InfoSec controls should be added to the Existing Controls column of the organisation's Risk Register, for the relevant risk.
@@ -228,7 +228,7 @@ Once a treatment plan is completely delivered and if there is any residual risk,
 
 Appropriate stakeholders should confirm whether the residual risk can continue to be accepted or if it needs to be addressed and treated in another way. 
 
-If it's agreed that the residual risk can be accepted, stakeholders also need to confirm whether this acceptance is perpetual or if its a short term acceptance until another solution becomes available.
+If it's agreed that the residual risk can be accepted, stakeholders also need to confirm whether this acceptance is perpetual or if it's a short term acceptance until another solution becomes available.
 
 #### 12. Bonus 12th Step
 Throughout this whole process, if the state of relevant threats, vulnerabilities and assets change then the risk descriptions, ratings and treatment plans may need to be updated accordingly. 
@@ -240,11 +240,11 @@ Risk registers should not be a piece of shelf-ware that is filled out once and t
 ## Integration into Organisation's Governance Structures
 The example risk process above ensures that relevant stakeholders are included in risk decisions, however, you will need to ensure that management is engaged and are aware of the gravity of the decisions they make.
 
-If management are not engaged this could mean that they believe your organisation's InfoSec risks are not an existential threat or it could mean that they don't fully understand the risks.
+If management is not engaged this could mean that they believe your organisation's InfoSec risks are not an existential threat or it could mean that they don't fully understand the risks.
 
 It is the information security team's job to ensure that management grasps each InfoSec risk completely.  
 
-That said, your management team may have a higher tolerance otr appetite for risk than you. This is fairly normal but shouldn't stop you from expressing your own measured and justified concerns. 
+That said, your management team may have a higher tolerance or appetite for risk than you. This is fairly normal but shouldn't stop you from expressing your own measured and justified concerns. 
 
 ## Strategic Risk Management
 Individual risk assessments don't often give you the high-level information needed to strategically address an organisation's security shortfalls. This is because discrete risk assessments are often performed against individual processes, products, services, etc. An example of this would be a Data Protection Impact Assessment (DPIA) performed on a new organisational process to ensure continued compliance with GDPR (or the Data Protection Act 2018 here in the UK).
@@ -255,14 +255,14 @@ Instead, I'd recommend you think about your organisation at a higher level. Cons
 - **Key calendar events** - Are there any key events throughout the year that if negatively impacted would cost the organisation? If so how could these be negatively affected by security incidents?
 - **Information Security Domains** - Similar to Gap Analyses and Maturity Models described above, it's recommended to measure the org's exposure to risk against a list of common InfoSec domains. The [Secure Controls Framework](https://www.securecontrolsframework.com/scf-domains "Secure Controls Framework") has a great list of domains to get started with. 
 
-These are just three of many perspectives you could use ot help you identify your organisations most critical assets, events and how they may be exposed to InfoSec risks. 
+These are just three of many perspectives you could use to help you identify your organisations most critical assets, events and how they may be exposed to InfoSec risks. 
 
 Using perspectives like those above can give you a basic strategic skeleton, which you can then build upon through more data and context.
 
 ## Conclusion
 If implemented and embedded correctly, Risk Management can save time, improve consistency, help to prioritise work and can foster accountability in your organisation.  
 
-While a bit of work to get going, it is worth while investing in these methods.
+While a bit of work to get going, it is worthwhile investing in these methods.
 
 However, if risk analysis is completed and registers are populated, but their results don't inform an organisation's strategic decision making, it's not going to be much use to you or anyone else.
 
