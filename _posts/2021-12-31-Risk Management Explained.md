@@ -100,7 +100,7 @@ The following is a list of potential benefits if Risk Management is implemented 
 ## Risk Methodology & Process
 The following section gives an example of a recursive risk management process. The feedback loops included help to ensure your InfoSec posture continually improves. It also ensures that the process itself is under constant review and improvement through iteration.
 
-This example includes 11 steps but you could have as many or as few steps as you want.
+This example includes 11 steps (plus a bonus 12th step), but you could have as many or as few steps as you want.
 
 ![Risk Lifecycle](/assets/img/imgs/risk_lifecycle.PNG)
 _Risk Lifecycle_
