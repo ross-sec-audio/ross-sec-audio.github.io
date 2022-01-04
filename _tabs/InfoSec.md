@@ -1,6 +1,6 @@
 ---
 title: Information Security
-icon: fas fa-info-circle
+icon: fas fa-stream
 order: 1
 tags: [infoSec]
 ---
