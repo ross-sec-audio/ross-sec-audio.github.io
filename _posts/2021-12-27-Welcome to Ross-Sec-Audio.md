@@ -32,4 +32,4 @@ I'm interested in lots of stuff, but I'm planning to write about the following t
 4. Other musings on the world (i.e. politics, social science, anthropology, etc.)
 
 ## Contact
->If you'd like me to cover anything in particular, or if you'd like to collaborate, please don't hesitate to get in touch - [Email](mailto:info@example.com "Email me")
+>If you'd like me to cover anything in particular, or if you'd like to collaborate, please don't hesitate to get in touch - [Email](mailto:ross.d.prendergast@gmail.com "Email me")

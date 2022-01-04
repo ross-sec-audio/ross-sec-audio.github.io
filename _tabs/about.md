@@ -35,4 +35,4 @@ I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pag
 
 This keeps things very simple through Markdown, along with a bit of CSS, HTML, and JavaScript.
 
-> **Note**: To contact Ross please get in touch: [Email](mailto:info@example.com "Email me")
+> **Note**: To contact Ross please get in touch: [Email](mailto:ross.d.prendergast@gmail.com "Email me")

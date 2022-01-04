@@ -1,5 +1,5 @@
 ---
-title: InfoSec Risk Management Common Pitfalls
+title: InfoSec Risk Management - Benefits & Common Pitfalls
 date: 2021-12-31
 tags: [infosec, risk management]     # TAG names should always be lowercase
 excerpt_separator: <!--more-->
@@ -217,30 +217,37 @@ Security Reports will include key metrics including:
 This step should foster accountability in your organisation. Without it treatment plans could be deprioritised without approval or oversight.
 
 #### 10. Milestones Reached in Treatment Plans
-Significant progress or the complete delivery of treatment plans, in the form of newly delivered controls and capabilities will be added to the Existing Controls section of the organisation's Risk Register.
-The risk rating of this given row of the register will also be appropriately reduced.
-Appropriate stakeholders must agree on the reduction of the risk rating.
+When significant progress is made or a treatment plan is completely implemented, a description of these new InfoSec controls should be added to the Existing Controls column of the organisation's Risk Register, for the relevant risk.
+
+These new existing mitigating controls should reduce the risk rating.
+
+Appropriate stakeholders should formally agree on the reduction of this risk rating to ensure everyone is on the same page about the significance of the progress made and the severity of the remaining risk.
 
 #### 11. Residual Risk Re-Review
-Once a Treatment Plan is completely delivered, the residual risk should be re-reviewed and addressed where possible.
-Appropriate stakeholders should confirm whether the residual risk can continue to be accepted or if it needs to be addressed in the short, medium or long term.
-The process for approving these decisions is as above - Residual 
+Once a treatment plan is completely delivered and if there is any residual risk, this should be re-reviewed.
 
-Risks should go through the same process recursively.
+Appropriate stakeholders should confirm whether the residual risk can continue to be accepted or if it needs to be addressed and treated in another way. 
+
+If it's agreed that the residual risk can be accepted, stakeholders also need to confirm whether this acceptance is perpetual or if its a short term acceptance until another solution becomes available.
+
+#### 12. Bonus 12th Step
+Throughout this whole process, if the state of relevant threats, vulnerabilities and assets change then the risk descriptions, ratings and treatment plans may need to be updated accordingly. 
+
+This could also change the priority of your risks and hence change the order of your treatment plans.
+
+Risk registers should not be a piece of shelf-ware that is filled out once and then only checked and updated once every quarter/year/never. They need to be continually updated and reviewed to be useful. 
 
 ## Integration into Organisation's Governance Structures
-The example risk process above ensures that appropriate management and stakeholders are included in risk decisions, however, you will need to ensure that management is engaged and are aware of the gravity of the decisions they make.
+The example risk process above ensures that relevant stakeholders are included in risk decisions, however, you will need to ensure that management is engaged and are aware of the gravity of the decisions they make.
 
-If senior management is not engaged this could mean that they believe the organisation's information security risks are not an existential threat or they don't fully understand the risks.
+If management are not engaged this could mean that they believe your organisation's InfoSec risks are not an existential threat or it could mean that they don't fully understand the risks.
 
-It is the information security team's job to ensure that management grasps each information security risk completely.  
+It is the information security team's job to ensure that management grasps each InfoSec risk completely.  
 
-**Does management want to throw money at the problem?**  Often, improvements to Information Security requires significant changes to an organisation's working practices and culture. This needs to be understood by management if applicable. 
-
-Although money/funding is nice and can help a great many things.
+That said, your management team may have a higher tolerance otr appetite for risk than you. This is fairly normal but shouldn't stop you from expressing your own measured and justified concerns. 
 
 ## Strategic Risk Management
-Individual risk assessments don't often give you the high-level information needed to strategically address an organisation's security shortfalls. This is because discrete risk assessments are often performed against individual processes, products, services, etc. (e.g. a DPIA performed for GDPR compliance).
+Individual risk assessments don't often give you the high-level information needed to strategically address an organisation's security shortfalls. This is because discrete risk assessments are often performed against individual processes, products, services, etc. An example of this would be a Data Protection Impact Assessment (DPIA) performed on a new organisational process to ensure continued compliance with GDPR (or the Data Protection Act 2018 here in the UK).
 
 Instead, I'd recommend you think about your organisation at a higher level. Consider the following and the potential information security risks associated with each:
 
@@ -248,13 +255,15 @@ Instead, I'd recommend you think about your organisation at a higher level. Cons
 - **Key calendar events** - Are there any key events throughout the year that if negatively impacted would cost the organisation? If so how could these be negatively affected by security incidents?
 - **Information Security Domains** - Similar to Gap Analyses and Maturity Models described above, it's recommended to measure the org's exposure to risk against a list of common InfoSec domains. The [Secure Controls Framework](https://www.securecontrolsframework.com/scf-domains "Secure Controls Framework") has a great list of domains to get started with. 
 
-Using those three perspectives you should be able to identify your organisations most critical assets, events and how they may be exposed to security risk. 
+These are just three of many perspectives you could use ot help you identify your organisations most critical assets, events and how they may be exposed to InfoSec risks. 
 
-This will give you a basic strategic skeleton which you can then build on through more data and context.
+Using perspectives like those above can give you a basic strategic skeleton, which you can then build upon through more data and context.
 
 ## Conclusion
 If implemented and embedded correctly, Risk Management can save time, improve consistency, help to prioritise work and can foster accountability in your organisation.  
 
 While a bit of work to get going, it is worth while investing in these methods.
 
-If you have any questions or would like to know more about Information Security Risk Management, please to hesitate to get in touch [Email](mailto:info@example.com "Email me")
+However, if risk analysis is completed and registers are populated, but their results don't inform an organisation's strategic decision making, it's not going to be much use to you or anyone else.
+
+If you have any questions or would like to know more about Information Security Risk Management, please don't hesitate to [get in touch](mailto:ross.d.prendergast@gmail.com "get in touch")
