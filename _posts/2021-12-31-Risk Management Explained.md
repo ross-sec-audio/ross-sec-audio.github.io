@@ -156,7 +156,7 @@ The example ratings below could be used, but there are pros and cons for using l
 Risk = Impact x Likelihood (+ Threat Rating if applicable)
 ~~~
 
-![Risk Rating](/assets/img/imgs/risk_rating.JPG)
+![Risk Rating](/assets/img/imgs/risk_rating.JPG){: width="470" height="600" }
 _Example Risk Rating Matrix_
 
 The above example gives us a rating between 1 and 16 with 16 being the most severe.
