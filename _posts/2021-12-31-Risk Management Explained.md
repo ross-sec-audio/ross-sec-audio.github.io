@@ -3,6 +3,11 @@ title: InfoSec Risk Management - Benefits & Common Pitfalls
 date: 2021-12-31
 tags: [infosec, risk management]     # TAG names should always be lowercase
 excerpt_separator: <!--more-->
+image:
+  src: /assets/img/imgs/banner1.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: abstract banner
 ---
 
 >How Information Security (InfoSec) Risk Management can practically improve the security posture of your organisation if implemented correctly.
