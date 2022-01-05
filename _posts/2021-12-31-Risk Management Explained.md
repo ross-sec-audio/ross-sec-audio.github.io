@@ -4,7 +4,7 @@ date: 2021-12-31
 tags: [infosec, risk management]     # TAG names should always be lowercase
 excerpt_separator: <!--more-->
 image:
-  src: /assets/img/imgs/banner1.jpg
+  src: /assets/img/imgs/banner2.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: abstract banner
