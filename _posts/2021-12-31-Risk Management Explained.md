@@ -102,7 +102,7 @@ The following section gives an example of a recursive risk management process. T
 
 This example includes 11 steps (plus a bonus 12th step), but you could have as many or as few steps as you want.
 
-![Risk Lifecycle](/assets/img/imgs/risk_lifecycle.PNG)
+![Risk Lifecycle](/assets/img/imgs/Risk_Lifecycle.jpg)
 _Risk Lifecycle_
 
 #### 1. Identification 
