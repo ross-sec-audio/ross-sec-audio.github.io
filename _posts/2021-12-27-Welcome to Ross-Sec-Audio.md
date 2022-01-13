@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image:
   src: /assets/img/imgs/colour_banner.png
   width: 1000   # in pixels
-  height: 400   # in pixels
+  height: 200   # in pixels
   alt: abstract banner
 ---
 
