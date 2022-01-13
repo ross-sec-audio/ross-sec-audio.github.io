@@ -4,6 +4,11 @@ date: 2021-12-27
 tags: [welcome]     # TAG names should always be lowercase
 pin: true
 excerpt_separator: <!--more-->
+image:
+  src: /assets/img/imgs/colour_banner.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: abstract banner
 ---
 
 > Introduction to this site and the blog.
