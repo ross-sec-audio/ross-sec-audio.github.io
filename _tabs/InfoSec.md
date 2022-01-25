@@ -55,7 +55,7 @@ ___
 ---
 <br>
 
-# Helpful InfoSec Resources
+## Helpful InfoSec Resources
 
 [Alien Vault - Open Threat Exchange (OTX)](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange (OTX)")
 - An open source threat intelligence feed and threat data platform that allows security researchers to investigate new threats.
