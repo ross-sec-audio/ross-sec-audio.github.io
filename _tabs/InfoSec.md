@@ -11,7 +11,7 @@ This page includes links to information security posts along with some helpful r
 
 ---
 
-### [Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management - Benefits & Common Pitfalls")
+<h3><a href="https://ross-sec-audio.github.io/posts/Risk-Management-Explained/">Information Security Risk Management - Benefits & Common Pitfalls</a></h3>
 
 "How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
 
@@ -26,8 +26,7 @@ This page includes links to information security posts along with some helpful r
 
 ___
 
-### [Example Post 2](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Example Post 2")
-
+<h3><a href="https://ross-sec-audio.github.io/posts/Risk-Management-Explained/">Example Post 2</a></h3>
 "Example Post"
 
 <div class="mr-auto">
@@ -40,6 +39,7 @@ ___
 </div>
 
 ___
+<br>
 
 ## Planned Posts
 
@@ -52,6 +52,7 @@ ___
 | Practical Threat Intelligence | Seeing the woods for the trees and making it relevant |
 
 ---
+<br>
 
 # Helpful InfoSec Resources
 
