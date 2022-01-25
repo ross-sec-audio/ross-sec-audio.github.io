@@ -11,7 +11,7 @@ This page includes links to information security posts along with some helpful r
 
 ---
 
-<h3><a href="https://ross-sec-audio.github.io/posts/Risk-Management-Explained/">Information Security Risk Management - Benefits & Common Pitfalls</a></h3>
+[Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management - Benefits & Common Pitfalls")
 
 "How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
 
@@ -26,7 +26,8 @@ This page includes links to information security posts along with some helpful r
 
 ___
 
-<h3><a href="https://ross-sec-audio.github.io/posts/Risk-Management-Explained/">Example Post 2</a></h3>
+[Example Post](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Example Post")
+
 "Example Post"
 
 <div class="mr-auto">
