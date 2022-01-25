@@ -11,7 +11,7 @@ This page includes links to information security posts along with some helpful r
 
 ---
 
-[Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ " ## Information Security Risk Management - Benefits & Common Pitfalls")
+### [Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management - Benefits & Common Pitfalls")
 
 "How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
 
@@ -26,7 +26,7 @@ This page includes links to information security posts along with some helpful r
 
 ___
 
-[Example Post 2](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Example Post 2")
+### [Example Post 2](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Example Post 2")
 
 "Example Post"
 
@@ -55,11 +55,17 @@ ___
 
 # Helpful InfoSec Resources
 
-[Alien Vault - Open Threat Exchange](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange")
-- An useful open source threat intelligence feed
+[Alien Vault - Open Threat Exchange (OTX)](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange (OTX)")
+- An open source threat intelligence feed and threat data platform that allows security researchers to investigate new threats.
 
-[Snyk.io ](https://www.Snyk.io "Snyk.io")
--  Find and automatically fix vulnerabilities in your code, open source dependencies, containers, and infrastructure as code.
+[OpenVAS - Open Vulnerability Assessment Scanner](https://github.com/greenbone/openvas-scanner/ "OpenVAS - Open Vulnerability Assessment Scanner")
+- An free & full-featured network, system/server and application vulnerability scanner.
+
+[Gophish](https://getgophish.com/ "Gophish")
+- An open-source phishing framework that makes it easy to test your organization's exposure to phishing.
+
+[Snyk.io](https://www.Snyk.io/ "Snyk.io")
+- Snyk is a developer friendly tool that tests for vulnerabilities in code, open source dependencies, container images and infrastructure as code configurations.
 
 [SANS Information Security Policy Project](https://www.sans.org/information-security-policy/?msc=main-nav "SANS Information Security Policy Project")
  - A repository of very useful policy templates.
