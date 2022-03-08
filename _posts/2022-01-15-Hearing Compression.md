@@ -15,7 +15,7 @@ published: false
 <!--more-->
 
 ## TL;DR
-
+I get the impression that people worry about compression a lot. Too much and you'll kill all your dynamics. 
 
 
 ## Compression Explained
