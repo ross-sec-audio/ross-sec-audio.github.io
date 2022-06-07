@@ -26,13 +26,13 @@ This page includes links to information security posts along with some helpful r
 
 ___
 
-[Example Post](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Example Post")
+[Vulnerability Management in 4 Stages](https://ross-sec-audio.github.io/posts/Vulnerability-Management-in-4-Stages/ "Vulnerability Management in 4 Stages")
 
-"Example Post"
+"A rant about running vulnerability management programmes that work."
 
 <div class="mr-auto">
     <i class="far fa-calendar fa-fw"></i>
-    <em class="timeago" date="2022-01-01 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Sat, Jan 01, 2022, 12:00 AM +0000">Jan 01, 2022</em>
+    <em class="timeago" date="2022-06-07 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Tues, June 07, 2022, 12:00 AM +0000">June 07, 2022</em>
     <i class="far fa-clock fa-fw"></i>
     <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1000 words">
         <em>10 min</em>
