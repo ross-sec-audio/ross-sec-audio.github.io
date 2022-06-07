@@ -2,7 +2,6 @@
 title: Welcome to Ross-Sec-Audio
 date: 2021-12-27
 tags: [welcome]     # TAG names should always be lowercase
-pin: true
 excerpt_separator: <!--more-->
 image:
   src: /assets/img/imgs/colour_banner.png
