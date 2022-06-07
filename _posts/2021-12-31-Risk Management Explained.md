@@ -33,7 +33,7 @@ In future posts, I might cover InfoSec maturity models and gap analysis properly
 ### Maturity Models
 InfoSec maturity models are useful tools to understand the current state of an organisation’s security posture, across many security controls or domains, by assigning a maturity measurement to each.
 
-> **Note:** An Information Security Control is a measure taken to reduce an information security risk, such as breaches, theft or unauthorised access. An example of a control would be full disk encryption on an endpoint device to protect against unauthorised access. 
+> **Note:** An Information Security Control is a measure taken to reduce an information security risk, such as breaches, theft or unauthorised access. An example of a control would be full disk encryption on an endpoint device to protect against unauthorised access. {: .prompt-tip } 
 
 Below is an example of a maturity rating scale:
 
@@ -41,8 +41,8 @@ Below is an example of a maturity rating scale:
 |-----------------------------|-----|
 | Level 1 - **Initial** | Undocumented. Dependency on individual knowledge and efforts. Not repeatable or scalable. |
 | Level 2 - **Developing** | Mostly repeatable due to documentation, but not properly embedded. |
-| Level 3 - **Defined** | Completely documented, standardised and has maintenance support.
-| Level 4 - **Managed** | Periodically reviews the effectiveness in place, through data collection and analysis.
+| Level 3 - **Defined** | Completely documented, standardised and has maintenance support. |
+| Level 4 - **Managed** | Periodically reviews the effectiveness in place, through data collection and analysis. |
 | Level 5 - **Optimising** | Continuous monitoring, review and improvement processes are embedded. |  
  
 Maturity models are particularly useful in demonstrating the security controls and domains that are lacking at an organisation. 
