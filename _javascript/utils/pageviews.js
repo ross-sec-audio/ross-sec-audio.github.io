@@ -201,6 +201,7 @@ function fetchProxyPageviews() {
 }
 
 function fetchLocalPageviews(hasCache = false) {
+  // file deepcode ignore PromiseNotCaughtGeneral: also for the craic
   return fetch(PvOpts.getLocalMeta())
     .then(response => response.json())
     .then(data => {

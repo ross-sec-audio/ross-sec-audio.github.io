@@ -86,6 +86,7 @@
 
     /* Notify another plugins that the theme mode has changed */
     notify() {
+      // file deepcode ignore TooPermissiveCorsPostMessage: for the craic
       window.postMessage({
         direction: ModeToggle.ID,
         message: this.modeStatus
