@@ -17,10 +17,10 @@ This page includes links to information security posts along with some helpful r
 
 <div class="mr-auto">
     <i class="far fa-calendar fa-fw"></i>
-    <em class="timeago" date="2021-12-31 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Fri, Dec 31, 2021, 12:00 AM +0000">Dec 31, 2021</em>
+    <em class="timeago" date="2021-12-31 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Fri, Dec 31, 2021, 12:00 AM +0000">Dec 31, 2021 </em>
     <i class="far fa-clock fa-fw"></i>
     <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1180 words">
-        <em>6 min</em>
+        <em>16 min</em>
     </span>
 </div>
 
@@ -35,7 +35,7 @@ ___
     <em class="timeago" date="2022-06-07 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Tues, June 07, 2022, 12:00 AM +0000">June 07, 2022</em>
     <i class="far fa-clock fa-fw"></i>
     <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1000 words">
-        <em>10 min</em>
+        <em>14 min</em>
     </span>
 </div>
 
