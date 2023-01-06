@@ -46,10 +46,10 @@ Below is an example of a maturity rating scale:
 | Level 4 - **Managed** | Periodically reviews the effectiveness in place, through data collection and analysis. |
 | Level 5 - **Optimising** | Continuous monitoring, review and improvement processes are embedded. |  
  
-Maturity models are particularly useful in demonstrating the security controls and domains that are lacking at an organisation. 
+Maturity models are particularly useful in demonstrating the security controls and domains that are lacking in an organisation. 
 
 Unfortunately, maturity models have their limitations:
- - You might think the purpose of models is reaching the highest level on the maturity scale. This assumes that improvement is linear and doesn't need to include continuous improvement 
+ - You might think the purpose of models is to reach the highest level on the maturity scale. This assumes that improvement is linear and doesn't need to include continuous improvement 
  - The scales described in most maturity models lack real advice on how to improve the security of each control, outside general process improvement. They're not context-driven.
 
 ### Gap Analyses
@@ -70,7 +70,7 @@ To accurately explain this, I'll first outline several key Risk Management conce
 
 | **Term** | **Description** |
 |--|--|
-| Threat | Any circumstance, event or actor with the potential to harm your organisation through unauthorised access, destruction, disclosure, modification of asset and/or denial of service. |
+| Threat | Any circumstance, event or actor with the potential to harm your organisation through unauthorised access, destruction, disclosure, modification of assets and/or denial of service. |
 | Vulnerability | A weakness in an information system, process, internal control or implementation that could be exploited or triggered by a threat.|
 |Likelihood | This is the probability that a risk will manifest through the exploitation of a vulnerability.
 | Impact | Impact is the total damage your organisation would incur if a vulnerability were exploited by a threat. | 
@@ -92,7 +92,7 @@ Often, when you're working in InfoSec there are so many projects, reports, queri
 
 However, if you take the time to embed Risk Management practices you'll probably find you're able to improve your time management through the consistent prioritisation it delivers. 
 
-A simple working example of this would be Organisation A, which have identified approximately 30 significant and strategic InfoSec risks. Of these 30, 5 have a scored "Very High" in Likelihood and "Very High" in Impact. This score has been given due to an understanding of the probability of this risk manifesting and the negative consequences of its occurrence. Because of this understanding, you can prioritise the remediation of these 5 risks. If you are questioned about this, you already have a justification documented.
+A simple working example of this would be Organisation A, which has identified approximately 30 significant and strategic InfoSec risks. Of these 30, 5 have scored "Very High" in Likelihood and "Very High" in Impact. This score has been given due to an understanding of the probability of this risk manifesting and the negative consequences of its occurrence. Because of this understanding, you can prioritise the remediation of these 5 risks. If you are questioned about this, you already have a justification documented.
 
 This should grant you some space to address your organisation's critical security threats and vulnerabilities, and you'll be able to justify the resource cost.
 
@@ -101,7 +101,7 @@ The following is a list of potential benefits if Risk Management is implemented 
 - A consistent and agreed method to describe and measure the criticality of each risk
 - Using the above measurement provides you with a method to consistently prioritise your team’s work
 - After agreeing on the measurements and the prioritisation of treatment, stakeholders can agree on strategic and tactical treatment plans for each identified risk. This grants your team flexible roadmaps for the coming months/years and creates accountability in your organisation through those commitments to security.
-- When treatment plans are completed, their results are added to the existing mitigating controls of a given risk. This new mitigating control will reduce the overall risk rating and will result in a residual risk rating. This new rating is reviewed by stakeholders to agree whether it can be accepted (i.e. ignored) or if further treatment is required. This process is continuous. 
+- When treatment plans are completed, their results are added to the existing mitigating controls of a given risk. This new mitigating control will reduce the overall risk rating and will result in a residual risk rating. This new rating is reviewed by stakeholders to agree on whether it can be accepted (i.e. ignored) or if further treatment is required. This process is continuous. 
 
 ## Risk Methodology & Process
 The following section gives an example of a recursive risk management process. The feedback loops included help to ensure your InfoSec posture continually improves. It also ensures that the process itself is under constant review and improvement through iteration.
@@ -126,14 +126,14 @@ Identifying InfoSec risk is both a simple and complicated process. You may be ab
 There are several ways you can reduce the operational risk of leaving some InfoSec risks unidentified. These can include
 1. With a list of business-critical assets, perform a triage InfoSec survey on each. The survey could include questions about how these assets are developed, tested, hosted, patched, used, maintained, decommissioned, etc. 
 2. Consider your organisation's calendar. Are there any dates, periods or events that are critical to the running of the organisation? Can you now think of any InfoSec risks that would negatively affect these dates?
-3. Review your companies posture against a list of InfoSec domains (e.g [Secure Control Framework's List of Security Domains](https://www.securecontrolsframework.com/scf-domains "Secure Control Framework's List of Security Domains")) and then through understanding your gaps in these areas you can identify risks relating to each.
+3. Review your company's posture against a list of InfoSec domains (e.g [Secure Control Framework's List of Security Domains](https://www.securecontrolsframework.com/scf-domains "Secure Control Framework's List of Security Domains")) and then through understanding your gaps in these areas you can identify risks relating to each.
     - Yes, this is essentially a gap analysis with the results converted into risks.
 
 #### 2. Description 
 These identified risks then need to be described consistently. The following format is an example of a consistent description method.
 <br>
 
-1. Where relevant, briefly describe the risks' and affected asset's context  
+1. Where relevant, briefly describe the risks and affected asset's context  
     - If the affected asset is a website, where is it hosted? How is it accessed? etc.
 2. Briefly describe the causes of this risk
     - This would include the threats and vulnerabilities, including their Likelihood and Proximity
@@ -149,7 +149,7 @@ When risks are not adequately or consistently described it can be very difficult
 #### 3. Initial Measurement 
 Using the consistent descriptions above, you'll then need to assign quantitative ratings to each risk.
 
-The example ratings below could be used, but there are pros and cons for using less and more complex rating systems. The following ratings are easy to use but can be considered overly simple when trying to measure the severity differences of two or more similar risks. 
+The example ratings below could be used, but there are pros and cons to using less and more complex rating systems. The following ratings are easy to use but can be considered overly simple when trying to measure the severity differences of two or more similar risks. 
 <br>
 
 - **Impact** - scoring from 1 to 4 (Low to Very High) <br>
@@ -167,7 +167,7 @@ _Example Risk Rating Matrix_
 
 The above example gives us a rating between 1 and 16 with 16 being the most severe.
 
-Ratings will provide us with a consistent measurement to prioritise our risks and their treatment plans.
+Ratings will provide us with a consistent measurement to prioritise our risks and treatment plans.
 
 #### 4. Description & Initial Rating Approval
 Once you have described and measured your risks, they will need to be shared with relevant stakeholders in your organisation for consultation and to ensure that are formally agreed upon.
@@ -179,7 +179,7 @@ When agreements on risk severity are agreed upon and documented, your organisati
 #### 5. Treatment Plan Creation
 Once everyone has agreed on the risk and its severity, what do you do with it?
 
-Risks can be treated several ways. These can be categorised into:
+Risks can be treated in several ways. These can be categorised into:
 - Termination - Risks and their sources are completely removed or avoided
 - Action - Risks are reduced, mitigated and/or contained through the implementation of controls.
 - Transfer - Risks are shared with another party (i.e. Insurance)
@@ -237,14 +237,14 @@ Appropriate stakeholders should confirm whether the residual risk can continue t
 If it's agreed that the residual risk can be accepted, stakeholders also need to confirm whether this acceptance is perpetual or if it's a short term acceptance until another solution becomes available.
 
 #### 12. Bonus 12th Step
-Throughout this whole process, if the state of relevant threats, vulnerabilities and assets change then the risk descriptions, ratings and treatment plans may need to be updated accordingly. 
+Throughout this whole process, if the state of relevant threats, vulnerabilities and assets changes then the risk descriptions, ratings and treatment plans may need to be updated accordingly. 
 
 This could also change the priority of your risks and hence change the order of your treatment plans.
 
 Risk registers should not be a piece of shelf-ware that is filled out once and then only checked and updated once every quarter/year/never. They need to be continually updated and reviewed to be useful. 
 
 ## Integration into Organisation's Governance Structures
-The example risk process above ensures that relevant stakeholders are included in risk decisions, however, you will need to ensure that management is engaged and are aware of the gravity of the decisions they make.
+The example risk process above ensures that relevant stakeholders are included in risk decisions, however, you will need to ensure that management is engaged and aware of the gravity of the decisions they make.
 
 If management is not engaged this could mean that they believe your organisation's InfoSec risks are not an existential threat or it could mean that they don't fully understand the risks.
 
@@ -259,9 +259,9 @@ Instead, I'd recommend you think about your organisation at a higher level. Cons
 
 - **The organisation's key assets** - What are the organisation's key processes, services, products and other assets? What are the corporate risks to these? And how does information security relate to these as corporate risks?
 - **Key calendar events** - Are there any key events throughout the year that if negatively impacted would cost the organisation? If so how could these be negatively affected by security incidents?
-- **Information Security Domains** - Similar to Gap Analyses and Maturity Models described above, it's recommended to measure the org's exposure to risk against a list of common InfoSec domains. The [Secure Controls Framework](https://www.securecontrolsframework.com/scf-domains "Secure Controls Framework") has a great list of domains to get started with. 
+- **Information Security Domains** - Similar to Gap Analyses and Maturity Models described above, it's recommended to measure the organisation's exposure to risk against a list of common InfoSec domains. The [Secure Controls Framework](https://www.securecontrolsframework.com/scf-domains "Secure Controls Framework") has a great list of domains to get started with. 
 
-These are just three of many perspectives you could use to help you identify your organisations most critical assets, events and how they may be exposed to InfoSec risks. 
+These are just three of many perspectives you could use to help you identify your organisation's most critical assets, and events and how they may be exposed to InfoSec risks. 
 
 Using perspectives like those above can give you a basic strategic skeleton, which you can then build upon through more data and context.
 
