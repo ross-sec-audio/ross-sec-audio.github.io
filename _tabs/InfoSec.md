@@ -46,9 +46,9 @@ ___
 
 | Title | Description |
 | ------ | ----------- |
-| What's the craic with ISO 27001 | An overview of ISO 27001 - It's not just a list of security controls |
-| Are DevOps and DevSecOps the same thing? | How the original incarnation of DevOps included security and quality along with speed |
-| Running a smooth Security Compliance Portfolio | Common Pitfalls and Issues |
+| DevOps is failing because it's bloated with crud | A review of DevOps and how it's being misused and abused |
+| DevOps and DevSecOps are not the same thing | How the original incarnation of DevOps included security and quality along with speed |
+| InfoSec Geo-politics Rant | How our industrty is prey to hostile propoganda and influence |
 | Securing Kubernetes | Don't just run it for the craic and hope everything's all good |
 | Practical Threat Intelligence | Seeing the woods for the trees and making it relevant |
 
@@ -56,6 +56,12 @@ ___
 <br>
 
 ## Helpful InfoSec Resources
+
+[Awesome Hacking - Github list](https://github.com/Hack-with-Github/Awesome-Hacking) - A great and exhaustive list of all things infosec. have an explore and find some treasure.
+
+[Awesome Security News Letters - Github list](https://github.com/TalEliyahu/awesome-security-newsletters) - A good list of security newsletters. Some better than others. Personally, I really like Ollie Whitehouse's 'Bluepurple Pulse', Clint Gibler's 'tl;dr sec' newsletter and Zack Whittaker's 'This Week in Security'.
+
+[Awesome Cloud Security - Github list](https://github.com/4ndersonLin/awesome-cloud-security) - A good list of resources related to all things Cloud Security.
 
 [Alien Vault - Open Threat Exchange (OTX)](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange (OTX)")
 - An open source threat intelligence feed and threat data platform that allows security researchers to investigate new threats.
