@@ -15,7 +15,7 @@ image:
 
 Hey there! 
 
-I've created this site to learn and to showcase the silly things I've written and developed.
+I've created this site to learn and showcase the silly things I've written and developed.
 
 I don't claim to be an expert on any topics covered here, so if I've made an error or misunderstood something, please do let me know. I'd be happy to update posts as required.
 
