@@ -57,11 +57,14 @@ ___
 
 ## Helpful InfoSec Resources
 
-[Awesome Hacking - Github list](https://github.com/Hack-with-Github/Awesome-Hacking) - A great and exhaustive list of all things infosec. have an explore and find some treasure.
+[Awesome Hacking - Github list](https://github.com/Hack-with-Github/Awesome-Hacking "Awesome Hacking - Github list") 
+- A great and exhaustive list of all things infosec. have an explore and find some treasure.
 
-[Awesome Security News Letters - Github list](https://github.com/TalEliyahu/awesome-security-newsletters) - A good list of security newsletters. Some better than others. Personally, I really like Ollie Whitehouse's 'Bluepurple Pulse', Clint Gibler's 'tl;dr sec' newsletter and Zack Whittaker's 'This Week in Security'.
+[Awesome Security News Letters - Github list](https://github.com/TalEliyahu/awesome-security-newsletters "Awesome Security News Letters - Github list") 
+- A good list of security newsletters. Some better than others. Personally, I really like Ollie Whitehouse's 'Bluepurple Pulse', Clint Gibler's 'tl;dr sec' newsletter and Zack Whittaker's 'This Week in Security'.
 
-[Awesome Cloud Security - Github list](https://github.com/4ndersonLin/awesome-cloud-security) - A good list of resources related to all things Cloud Security.
+[Awesome Cloud Security - Github list](https://github.com/4ndersonLin/awesome-cloud-security "Awesome Cloud Security - Github list") 
+- A good list of resources related to all things Cloud Security.
 
 [Alien Vault - Open Threat Exchange (OTX)](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange (OTX)")
 - An open source threat intelligence feed and threat data platform that allows security researchers to investigate new threats.
