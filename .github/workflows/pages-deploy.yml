@@ -25,5 +25,10 @@ jobs:
           ruby-version: 2.7
           bundler-cache: true
 
+      - name: Run Dastardly Action Step
+        uses: PortSwigger/dastardly-github-action@main
+        with:
+          target-url: 'https://ross-sec-audio.github.io/'
+
       - name: Deploy
         run: bash tools/deploy.sh
