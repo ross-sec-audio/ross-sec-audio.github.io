@@ -22,7 +22,7 @@ plugins:
 
 title: EvKIROSpem                          # the main title
 
-tagline: InfoSec & Music Production   # it will display as the sub-title
+tagline: Security research & music production   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Ross' website and blog covering
