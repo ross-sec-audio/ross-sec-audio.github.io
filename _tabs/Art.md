@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-Art art art
-
 ![Prawn](/assets/img/imgs/art/prawn.jpg)
 
 ![Squirrel](/assets/img/imgs/art/Squirrel.png)
