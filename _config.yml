@@ -20,13 +20,13 @@ plugins:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ross Prendergast                          # the main title
+title: EvKIROSpem                          # the main title
 
 tagline: InfoSec & Music Production   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Ross Prendergast's personal website and blog covering
-  information security research, music production, politics and art.
+  Ross' website and blog covering
+  Security research, music production, and art.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://ross-sec-audio.github.io/
