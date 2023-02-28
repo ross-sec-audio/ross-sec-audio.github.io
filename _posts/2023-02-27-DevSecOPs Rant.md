@@ -1,6 +1,6 @@
 ---
 title: A Rant about DevSecOps
-date: 2022-06-07
+date: 2023-02-27
 tags: [infosec, vulnerabilities, assets, devops, devsecops]     # TAG names should always be lowercase
 image:
   src: /assets/img/imgs/geo.png
