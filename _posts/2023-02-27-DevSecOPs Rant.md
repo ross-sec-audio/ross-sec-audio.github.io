@@ -11,7 +11,9 @@ image:
 
 ## The Rant Begins
 
-Over the last few years, I've seen many people and organisations with the wrong idea about DevOps and Agile, using them as excuses to sidestep process gates and governance. In response, I've often tried to explain the benefits and specific uses of DevOps and Agile practices, and attempted to correct those who abuse DevOps and Agile terms to avoid other good practices, such as ITIL. Sometimes I've been able to help, and sometimes it fell on deaf ears.
+Over the last few years, I've seen many people and organisations with the wrong ideas about DevOps and Agile, using them as excuses to sidestep process gates and governance.
+
+In response, I've often tried to explain the benefits and specific uses of DevOps and Agile practices, and attempted to correct those who abuse DevOps and Agile terms to avoid other good practices, such as ITIL. Sometimes I've been able to help, and sometimes it fell on deaf ears.
 
 ## Lovely Intentions
 
@@ -21,7 +23,7 @@ Examples of this include the lengthy and somewhat useless Supplier Assessment Qu
 
 I think the InfoSec community have a similar issue with DevSecOps.
 
-When I first heard about DevSecOps, the term thrown about was "Shift Left". This term actually means quite a lot in DevOps, but in the context of the conversations I have having, it was to set up automated Static Analysis Security Testing (SAST) and Dynamic Analysis Security Testing (DAST) in development and delivery pipelines, so vulnerabilities are identified early on.
+When I first heard about DevSecOps, the term thrown about was "Shift Left". This term actually means quite a lot in DevOps, but in the context of the conversations I was having, it was to set up automated Static Analysis Security Testing (SAST) and Dynamic Analysis Security Testing (DAST) in development and delivery pipelines, so vulnerabilities are identified early on.
 
 >For more info on Vulnerability & Security Testing see this other blog I've written on it.
 [Vulnerability Mangaement in 4 Stages](https://ross-sec-audio.github.io/posts/Vulnerability-Management-in-4-Stages/ "Vulnerability Mangaement in 4 Stages")
@@ -35,34 +37,37 @@ When I later went on to learn the principles of DevOps through the Pheonix Proje
 
 If you search the term DevSecOps today, you'll be presented with hundreds of sites and blogs, all explaining it at a high level. But only a tiny wee proportion of these discuss anything other than shiting left through automated / early security testing and the adoption of DevSecOps tools.
 
+We're pushing "DevSecOps", but missing some really important parts of the story that would provide our orgs huge value.
+
 ## Principles, not technology
 
-I believe that many of us have overlooked the original drivers for the creation of Agile and DevOps practices.
+I believe that this is because many of us have overlooked the original drivers for the creation of Agile and DevOps practices.
 
 Agile ways of working were primarily a response to the difficulty in estimating effort in Software Development work, due to inherent unknowns and complexities.
 
 DevOps practices were a response to Development and Operations teams commonly not being able to or willing to work well together.
 
-The result of the latter was not a list of new technologies, although that did come later to better serve newly adopted principles. Instead, DevOps proposed ways for these two teams to work together.
+The result of the latter was not a list of new technologies, although that did come later to better serve newly adopted principles. Instead, DevOps proposed ways for these two teams to work together effectively.
 
-Reductively put, this boiled down to the 3 Ways:
+Reductively put, this boiled down to the "3 Ways":
 
  - Maintain flow in systems
  - Amplify feedback loops.
  - Promote continuous improvement through learning and experimentation.
 
-When I dove into these tenents, I found lots of other underlying ideas, such as:
+When I dove into these tenents, I found lots of other fun ideas, such as:
 
- - Limiting work in progress
+ - Limiting work in progress (this should be thought to babies)
  - The theory of constraints
- - Determining the four types of work
- - Getting asset management right and
+ - Identifying the four types of work and handling each accordingly
+ - Getting incident management right
+ - Getting asset management right
  - Getting change management right
 
 Those last two make me chuckle...Then I find myself rubbing my temples in despair.
 
-Anyway, all the above was put in place to help Dev and Ops teams play nice. They've each helped me as an infosec person work in more helpful ways with other teams.
+Anyway...All the above was developed to help Dev and Ops teams play nice. They've each assisted me as an infosec person to work in more helpful ways with other teams.
 
-So many InfoSec teams I see today, across a lot of different industries, cannot play nice with anyone. Lots have implemented automated SAST, SCA, DAST and IAST into pipelines, but as soon as the long list of findings appears, all too often, that team turns into the "Fix our problem first" team. Sigh.
+So many infosec teams I see today, across a lot of different industries, cannot play nice with other teams. Lots have implemented automated SAST, SCA, DAST and IAST into pipelines, but as soon as the long list of findings appears, all too often, that team turns into the "Fix our problem first" team. Sigh.
 
 We've missed the point.
