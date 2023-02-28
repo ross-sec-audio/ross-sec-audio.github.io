@@ -5,22 +5,20 @@ order: 1
 tags: [infoSec]
 ---
 
-This page includes links to information security posts along with some helpful resources.
-
 ## Previous Posts
 
 ---
 
-[Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management - Benefits & Common Pitfalls")
+[A Rant about DevSecOps](https://ross-sec-audio.github.io/posts/DevSecOPs-Rant/ "A Rant about DevSecOps")
 
-"How Information Security Risk Management can practically and significantly improve the security posture of your organisation."
+A rant about running vulnerability management programmes that work.
 
 <div class="mr-auto">
     <i class="far fa-calendar fa-fw"></i>
-    <em class="timeago" date="2021-12-31 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Fri, Dec 31, 2021, 12:00 AM +0000">Dec 31, 2021 </em>
+    <em class="timeago" date="2023-02-27 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Mon, Feb 27, 2023, 12:00 AM +0000">Feburary 27, 2023</em>
     <i class="far fa-clock fa-fw"></i>
-    <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1180 words">
-        <em>16 min</em>
+    <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1000 words">
+        <em>3 min</em>
     </span>
 </div>
 
@@ -28,7 +26,7 @@ ___
 
 [Vulnerability Management in 4 Stages](https://ross-sec-audio.github.io/posts/Vulnerability-Management-in-4-Stages/ "Vulnerability Management in 4 Stages")
 
-"A rant about running vulnerability management programmes that work."
+A rant about running vulnerability management programmes that work.
 
 <div class="mr-auto">
     <i class="far fa-calendar fa-fw"></i>
@@ -40,22 +38,35 @@ ___
 </div>
 
 ___
+
+[Information Security Risk Management - Benefits & Common Pitfalls](https://ross-sec-audio.github.io/posts/Risk-Management-Explained/ "Information Security Risk Management - Benefits & Common Pitfalls")
+
+How Information Security Risk Management can practically and significantly improve the security posture of your organisation.
+
+<div class="mr-auto">
+    <i class="far fa-calendar fa-fw"></i>
+    <em class="timeago" date="2021-12-31 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Fri, Dec 31, 2021, 12:00 AM +0000">Dec 31, 2021 </em>
+    <i class="far fa-clock fa-fw"></i>
+    <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1180 words">
+        <em>16 min</em>
+    </span>
+</div>
 <br>
 
 ## Planned Posts
 
 | Title | Description |
 | ------ | ----------- |
-| DevOps is failing because it's bloated with crud | A review of DevOps and how it's being misused and abused |
-| DevOps and DevSecOps are not the same thing | How the original incarnation of DevOps included security and quality along with speed |
-| InfoSec Geo-politics Rant | How our industrty is prey to hostile propoganda and influence |
-| Securing Kubernetes | Don't just run it for the craic and hope everything's all good |
-| Practical Threat Intelligence | Seeing the woods for the trees and making it relevant |
+| Microservice architecture isn't a panacea | A pragmatic look at the pros and cons of different architectural patterns |
+| Malware Analysis Intro | My first impressions of getting into malware analysis and reverse engineering |
 
 ---
 <br>
 
-## Helpful InfoSec Resources
+## Helpful Resources
+
+[VxUnderground](https://vxunderground.org "VxUnderground") 
+- Virus Exchange Underground, the largest collection of malware source code, samples, and papers on the internet.
 
 [Awesome Hacking - Github list](https://github.com/Hack-with-Github/Awesome-Hacking "Awesome Hacking - Github list") 
 - A great and exhaustive list of all things infosec. have an explore and find some treasure.
@@ -86,8 +97,3 @@ ___
 
 [Secure Control Framework's List of Security Domains](https://www.securecontrolsframework.com/scf-domains "Secure Control Framework's List of Security Domains")
 - A repository of InfoSec Domains including information about each.
-
-
-
-
-
