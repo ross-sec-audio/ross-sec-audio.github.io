@@ -3,7 +3,7 @@ title: A Rant about DevSecOps
 date: 2022-06-07
 tags: [infosec, vulnerabilities, assets]     # TAG names should always be lowercase
 image:
-  src: /assets/img/imgs/apple.jpg
+  src: /assets/img/imgs/geo.png
   width: 1000   # in pixels
   height: 200   # in pixels
   alt: abstract banner
