@@ -45,7 +45,7 @@ We as an industry I think we've been pushing this kind of tool based DevSecOps, 
 
 I believe that this is because many of us have overlooked the original drivers for the creation of Agile and DevOps practices.
 
-Agile ways of working were primarily a response to the difficulty in estimating effort in Software Development work, due to inherent unknowns and complexities.
+Agile ways of working were primarily a response to the challenges of infrequent and complex code deployments, along with the difficulty of estimating effort in Software Development work in general, due to inherent unknowns and complexities.
 
 DevOps practices were a response to Development and Operations teams commonly not being able to or willing to work well together.
 
