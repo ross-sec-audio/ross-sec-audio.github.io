@@ -752,7 +752,7 @@ $sidebar-display: "sidebar-display";
 
     @for $i from 1 through $tab-count {
       $offset: $tab-count - $i;
-      $top: -$offset * $tab-height + ($tab-height - $tab-cursor-height) / 2;
+      $top: -$offset * $tab-height + ($tab-height - $tab-cursor-height);
 
       @if $i < $tab-count {
         > li.active:nth-child(#{$i}),
@@ -1493,7 +1493,7 @@ $sidebar-display: "sidebar-display";
 
 @media all and (min-width: 1400px) {
   #main > div.row {
-    padding-left: calc((100% - #{$main-content-max-width}) / 2);
+    padding-left: calc((100% - #{$main-content-max-width}) , 2);
 
     > div.col-xl-8 {
       max-width: 850px;
@@ -1696,7 +1696,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #main > div.row {
-    padding-left: calc((100% - #{$main-content-max-width} - 2%) / 2);
+    padding-left: calc((100% - #{$main-content-max-width} - 2%) , 2);
   }
 
   #panel-wrapper {
