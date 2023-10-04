@@ -17,9 +17,6 @@ But the term bothered me. I knew some colleagues who had distaste for it, but I 
 
 This short post will outline the ways in which this term impairs critical thinking and hampers inclusivity in our industry.
 
-![BestPractice](/assets/img/imgs/BP.jpg){: w="400" h="400" }
-__Not a good term__
-
 ## Losses in Critical Thinking
 
 "Best practice" infers a single, most right way of doing a particular thing. This is not the case in information security. 
