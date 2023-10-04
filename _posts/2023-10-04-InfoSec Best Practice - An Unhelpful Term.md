@@ -19,7 +19,7 @@ This short post will outline the ways in which this term impairs critical thinki
 
 ## Losses in Critical Thinking
 
-"Best practice" infers a single, most right way of doing a particular thing. This is not the case in information security. 
+"Best practice" infers a single, most right way of doing a particular thing. This doesn't make sense in information security.
 
 There is no "best".
 
