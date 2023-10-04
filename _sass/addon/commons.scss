@@ -726,7 +726,7 @@ $sidebar-display: "sidebar-display";
       &:last-child {
         a {
           position: relative;
-          left: calc($cursor-width, 2);
+          left: $cursor-width;
           width: 100%;
         }
 
