@@ -42,7 +42,7 @@ init() {
     exit -1
   fi
 
-  _baseurl="$(grep '^baseurl:' _config.yml"
+  _baseurl="$(grep '^baseurl:' _config.yml | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
 }
 
 build() {
