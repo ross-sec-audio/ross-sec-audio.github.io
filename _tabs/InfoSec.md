@@ -15,7 +15,7 @@ A short piece about the term "Information Security best practice, and how it's h
 
 <div class="mr-auto">
     <i class="far fa-calendar fa-fw"></i>
-    <em class="timeago" date="2023-10-04 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Wed, Oct 04, 2023, 12:00 AM +0000">Feburary 27, 2023</em>
+    <em class="timeago" date="2023-10-04 00:00:00 +0000" data-toggle="tooltip" data-placement="bottom" title="Wed, Oct 04, 2023, 12:00 AM +0000">October 04, 2023</em>
     <i class="far fa-clock fa-fw"></i>
     <span class="readtime" data-toggle="tooltip" data-placement="bottom" title="1000 words">
         <em>3 min</em>
