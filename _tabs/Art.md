@@ -17,5 +17,3 @@ order: 3
 ![Schmoo](/assets/img/imgs/art/Schmoo.png)
 
 ![Denis Hopper](/assets/img/imgs/art/DenisHopper.png)
-
-![Angry Kitty](/assets/img/imgs/art/angrykitty.png)
