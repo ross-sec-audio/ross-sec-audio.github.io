@@ -13,9 +13,9 @@ image:
 
 Over the last few years, I’ve witnessed many organisations express pretty negative views and misplaced ideas about DevOps and Agile, while sometimes using them as excuses to sidestep process gates and governance.
 
-In response, I've often tried to explain the benefits and specific uses of DevOps and Agile practices and attempted to correct those who abuse DevOps and Agile terms to avoid other good practices. Sometimes I've been able to help, and sometimes it fell on deaf ears.
+In response, I've often tried to explain the benefits and specific uses of DevOps and Agile practices, and attempted to correct those who abuse DevOps and Agile terms to avoid other good practices. Sometimes I've been able to help, and sometimes it fell on deaf ears.
 
-This short blog is me continuing to try to help. It's about how the InfoSec community often misunderstands the underlying principles and premises of DevOps, Agile and subsequently DevSecOps.
+This short blog is me continuing to try to help. It's about how the InfoSec community often misunderstands the underlying principles and premises of DevOps, Agile, and subsequently DevSecOps.
 
 ## Lovely intentions
 
@@ -35,11 +35,11 @@ And that was basically it. DevSecOps = Don't rely on Penetration Tests to find e
 ![DevSecOps](/assets/img/imgs/devsecops.jpg){: w="400" h="400" }
 _Nope_
 
-When I later went on to learn the principles of DevOps through the Phoenix Project, the DevOps Handbook, I was a bit shocked. The three ways and other principles were lost to most implementations and understandings of DevSecOps (At least in my own anecdotal experience).
+When I later went on to learn the principles of DevOps and Agile through the Phoenix Project, Clean Agile, and the DevOps Handbook, I was a bit shocked. The three ways and other principles were lost to most implementations and understandings of DevSecOps (At least in my own anecdotal experience).
 
 If you search the term DevSecOps today, you'll be presented with hundreds of sites and blogs, all explaining it at a high level. But only a tiny wee proportion of these discuss anything other than shifting left through automated / early security testing and the adoption of DevSecOps tools.
 
-We as an industry I think we've been pushing this kind of tool based DevSecOps, while missing some important parts of the story.
+We as an industry have been pushing this kind of tool based DevSecOps, while missing some important parts of the story.
 
 ## Principles, AND technology
 
@@ -72,4 +72,3 @@ All these principles and practices were developed to help Dev and Ops teams play
 So many InfoSec teams I see today, across a lot of different industries, cannot play nice with other teams. Lots have implemented automated SAST, SCA, DAST and IAST into pipelines, but as soon as the long list of findings appears, all too often, that team turns into the “You must fix this vulnerability by this deadline" team. Sigh.
 
 We've missed the point.
-
