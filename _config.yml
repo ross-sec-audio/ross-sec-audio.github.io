@@ -20,7 +20,7 @@ plugins:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EvKIROSpem                          # the main title
+title: EvK1r0Sp3m                          # the main title
 
 tagline: Security research & music production   # it will display as the sub-title
 
@@ -34,8 +34,8 @@ url: https://ross-sec-audio.github.io/
 github:
   username: ross-sec-audio             # change to your github username
 
-twitter:
-  username: Evk1r0sp3m            # change to your twitter username
+#twitter:
+#  username: Evk1r0sp3m            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +44,7 @@ social:
   email: ross.d.prendergast@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Evk1r0sp3m     # change to your twitter homepage
+ #   - https://twitter.com/Evk1r0sp3m     # change to your twitter homepage
     - https://github.com/ross-sec-audio      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
