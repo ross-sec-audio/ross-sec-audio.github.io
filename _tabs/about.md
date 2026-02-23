@@ -4,22 +4,25 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-Hi There,
+My goal here is to document my thoughts.
 
-I work in InfoSec and I also like producing music.
+This website includes projects relating to:
 
-In 2010, I completed my master's degree in Music Composition and Computer Music. Since then, I have been working in IT and InfoSec.
+- Information Security Research 
+- Other infoSec/IT/development projects
+- Music Composition & Production    
+- My opinions on Politics & Social Science
+- My opinions on art
 
-My goal here is to share some of my interests and to collaborate with nice people.
+### The Purpose of this Site
 
-The site includes content relating to:
+I've created this site to log my thoughts and opinions. 
 
-1. Information Security
-2. Software Development & Architecture
-3. Music Production
-4. Other musings on the world (i.e. art, politics, social science, anthropology, etc.)
+With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
 
-The views and opinions on this site are my own and are not representative of my employer.
+I'm using this site in an attempt to improve my understanding of the topics I cover and to improve my writing and communication skills. 
+
+The views and opinions on this site are my own and are not representative of my employer(s).
 
 ## About this Site
 
@@ -27,4 +30,4 @@ I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pag
 
 This keeps things very simple with Markdown, and small bits of CSS, HTML, and JavaScript.
 
-> **Note**: To contact Ross please get in touch: [Email](mailto:ross.d.prendergast@gmail.com "Email me")
+> **Note**: To contact me please get in touch: [Email](mailto:ktgpynt@protonmail.com "Email me")

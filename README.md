@@ -1,8 +1,6 @@
 # Ross-Sec-Audio Site
 
-This is my personal site (Ross Prendergast).
-
-My goal here is to collaborate with nice people and to create fun and interesting projects.
+My goal here is to document my thoughts.
 
 This website includes projects relating to:
 
@@ -14,13 +12,11 @@ This website includes projects relating to:
 
 ### The Purpose of this Site
 
-I've created this site as a single place to showcase the silly things I've written and developed. 
+I've created this site to log my thoughts and opinions. 
 
 With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
 
-I'm using this site in an attempt to improve my understanding of the topics I cover and to improve upon my writing and communication skills. 
-
-There's nothing like hard-earned practice so here we go, warts and all. 
+I'm using this site in an attempt to improve my understanding of the topics I cover and to improve my writing and communication skills. 
 
 The views and opinions on this site are my own and are not representative of my employer(s).
 
@@ -31,4 +27,4 @@ I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pag
 This keeps things very simple through Markdown, along with a small bit of CSS, HTML and JavaScript.
 
 
-> **Note**: To contact Ross please get in touch: [Email](mailto:info@example.com "Email me")
+> **Note**: To contact me please get in touch: [Email](mailto:ktgpynt@protonmail.com "Email me")

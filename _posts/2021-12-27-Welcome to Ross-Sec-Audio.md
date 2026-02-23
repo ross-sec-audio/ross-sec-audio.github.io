@@ -10,29 +10,33 @@ image:
   alt: abstract banner
 ---
 
-> Introduction to this site and the blog.
+> Introduction to this site
 <!--more-->
 
-Hey there! 
+My goal here is to document my thoughts.
 
-I've created this site to learn and showcase the silly things I've learned, written, and developed.
+This website includes projects relating to:
 
-I don't claim to be an expert on any topics covered here, so if I've made an error or misunderstood something, please do let me know. I'd be happy to update posts as required.
+- Information Security Research 
+- Other infoSec/IT/development projects
+- Music Composition & Production    
+- My opinions on Politics & Social Science
+- My opinions on art
 
-Mainly, I'm using this site to improve my understanding of InfoSec, Technology, Music Production, Culture, and Politics.
+### The Purpose of this Site
 
-I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it's developed using [Jekyll](https://jekyllrb.com/ "Jekyll"). This keeps things very simple through Markdown, along with a bit of CSS, HTML, and JavaScript.
+I've created this site to log my thoughts and opinions. 
 
-___
+With regard to the content on this site, I don't claim to be an expert of any discipline covered. 
 
-## Topics
-I'm interested in lots of stuff, but I'm planning to write about the following topics:
+I'm using this site in an attempt to improve my understanding of the topics I cover and to improve my writing and communication skills. 
 
-1. Information Security
-2. Programming & Software Development
-3. Music Production
-4. Live music coding
-5. Other musings on the world (i.e. politics, social science, anthropology, etc.)
+The views and opinions on this site are my own and are not representative of my employer(s).
 
-## Contact
->If you have a question, or if you'd like to collaborate on anything, please don't hesitate to get in touch - [Email](mailto:ross.d.prendergast@gmail.com "Email me")
+## About this Site
+
+I'm hosting this site using [GitHub Pages](https://pages.github.com/ "GitHub Pages"), and it uses [Jekyll](https://jekyllrb.com/ "Jekyll") as the static site generator.
+
+This keeps things very simple with Markdown, and small bits of CSS, HTML, and JavaScript.
+
+> **Note**: To contact me please get in touch: [Email](mailto:ktgpynt@protonmail.com "Email me")

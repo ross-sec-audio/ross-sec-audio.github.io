@@ -40,15 +40,14 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ross Prendergast
-  email: ross.d.prendergast@gmail.com             # change to your email address
+  name: Ross / EvK1r0Sp3M
+  email: ktgpynt@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
  #   - https://twitter.com/Evk1r0sp3m     # change to your twitter homepage
-    - https://github.com/ross-sec-audio      # change to your github homepage
+ #   - https://github.com/ross-sec-audio      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/rossprendergast/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

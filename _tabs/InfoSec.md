@@ -80,9 +80,14 @@ How Information Security Risk Management can practically and significantly impro
 
 ## Helpful Resources
 
+[RansomwareLive](https://www.ransomware.live "RansomwareLive")
+- RansomwareLive is a collaction of publicly disclosed ransomware data, from ransomware gangs (e.g. not fully verified in all cases), including an up to date list of hacked organisations, and ransomware negociation chat logs.
+
 [VxUnderground](https://vxunderground.org "VxUnderground") 
 - Virus Exchange Underground, the largest collection of malware source code, samples, and papers on the internet.
 
+[Awesome Public Datasets - Github list](https://github.com/awesomedata/awesome-public-datasets "Awesome Public Datasets - Github list") 
+- Repo list of publicly available datasets.
 [Awesome Hacking - Github list](https://github.com/Hack-with-Github/Awesome-Hacking "Awesome Hacking - Github list") 
 - A great and exhaustive list of all things infosec. have an explore and find some treasure.
 
@@ -92,23 +97,5 @@ How Information Security Risk Management can practically and significantly impro
 [Awesome Cloud Security - Github list](https://github.com/4ndersonLin/awesome-cloud-security "Awesome Cloud Security - Github list") 
 - A good list of resources related to all things Cloud Security.
 
-[Alien Vault - Open Threat Exchange (OTX)](https://otx.alienvault.com/ "Alien Vault - Open Threat Exchange (OTX)")
-- An open source threat intelligence feed and threat data platform that allows security researchers to investigate new threats.
-
-[OpenVAS - Open Vulnerability Assessment Scanner](https://github.com/greenbone/openvas-scanner/ "OpenVAS - Open Vulnerability Assessment Scanner")
-- An free & full-featured network, system/server and application vulnerability scanner.
-
 [Gophish](https://getgophish.com/ "Gophish")
 - An open-source phishing framework that makes it easy to test your organization's exposure to phishing.
-
-[Snyk.io](https://www.Snyk.io/ "Snyk.io")
-- Snyk is a developer friendly tool that tests for vulnerabilities in code, open source dependencies, container images and infrastructure as code configurations.
-
-[SANS Information Security Policy Project](https://www.sans.org/information-security-policy/?msc=main-nav "SANS Information Security Policy Project")
- - A repository of very useful policy templates.
-
-[Publicly Available ISO Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/ "Publicly Available ISO Standards")
-- A repository of free ISO standards to download.
-
-[Secure Control Framework's List of Security Domains](https://www.securecontrolsframework.com/scf-domains "Secure Control Framework's List of Security Domains")
-- A repository of InfoSec Domains including information about each.

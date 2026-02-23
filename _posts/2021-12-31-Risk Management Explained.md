@@ -272,4 +272,4 @@ While a bit of work to get going, it is worthwhile investing in these methods.
 
 However, if risk analysis is completed and registers are populated, but their results don't inform an organisation's strategic decision making, it's not going to be much use to you or anyone else.
 
-If you have any questions or would like to know more about Information Security Risk Management, please don't hesitate to [get in touch](mailto:ross.d.prendergast@gmail.com "get in touch")
+If you have any questions or would like to know more about Information Security Risk Management, please don't hesitate to [get in touch](mailto:ktgpynt@protonmail.com "get in touch")
