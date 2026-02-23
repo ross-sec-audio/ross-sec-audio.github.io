@@ -1,7 +1,6 @@
-
 ---
 title: Concerns Regarding Digital Identity, VPN Restrictions, and Child Online Safety
-date: 2021-12-27
+date: 2026-02-23
 tags: [politics, privacy]     # TAG names should always be lowercase
 excerpt_separator: <!--more-->
 image:
