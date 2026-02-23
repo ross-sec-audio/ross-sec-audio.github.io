@@ -2,12 +2,11 @@
 title: Concerns Regarding Digital Identity, VPN Restrictions, and Child Online Safety
 date: 2026-02-23
 tags: [politics, privacy]     # TAG names should always be lowercase
-excerpt_separator: <!--more-->
 image:
   src: /assets/img/imgs/cctv.png
   width: 1000   # in pixels
   height: 200   # in pixels
-  alt: abstract banner
+  alt: cctv
 ---
 
 # Concerning News
