@@ -18,7 +18,6 @@ While I fully support the goal of making the internet safer for young people, I'
 The current direction of travel appears to risk undermining privacy, digital rights, and even child protection itself.
 
 ## Digital identity and the risk of marginalising vulnerable and low‑income people
-
 Digital identity schemes rely on access to devices, stable documentation, and digital literacy, resources that many vulnerable or low‑income people do not consistently have. 
 
 Civil liberties groups have already warned that digital ID requirements would marginalise those without smartphones, people with limited understanding of current technologies, those experiencing homelessness, or anyone with incomplete documentation. These groups already face structural disadvantages. 
@@ -39,7 +38,6 @@ A system that ties full participation in public life, employment, housing, healt
 When digital identity becomes a gatekeeper to daily life, those on the margins fall further behind.
 
 ## The Online Safety Act’s uneven enforcement leaves children unprotected
-
 The UK’s digital ID and age‑verification framework is already in place, but due to technological realities, people can use simple means to bypass this poorly thought through "solution".
 
 A quick search for the trivial and laughable bypasses for the current age verification approach will show people successfully:
@@ -55,7 +53,6 @@ Yet the site remains accessible to all, including children, with no meaningful a
 While I don't agree that the current age check implementation is in any way fair or safe, the above example shows it is also ineffective.
 
 ## VPN restrictions: risk of overreach without solving the underlying problem
-
 Recent UK Government statements confirm that they are actively considering age‑restricting or limiting VPN use.
 Similarly, other reporting shows the government is exploring a possible VPN ban for under‑18s, framed as part of “closing loopholes” left by the Online Safety Act.
 
@@ -74,7 +71,6 @@ This will undermine the essential role VPNs play in securing communications and 
 These are the communities already most at risk of online harms.
 
 ## Digital ID schemes lead to mass surveillance of ordinary people
-
 Digital ID systems create the infrastructure for mass data collection and behavioural tracking.
 
 The UK government themselves admitted this in written evidence, warning a centralised digital ID would create an “unprecedented surveillance infrastructure,” fundamentally altering the citizen‑state power balance, citing historical UK abuses (GCHQ bulk interception, Windrush, police misuse of data, etc.). See [Parliment UK Evidence in response to the call for evidence for the inquiry, Harnessing the potential of
