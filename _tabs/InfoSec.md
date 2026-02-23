@@ -81,7 +81,7 @@ How Information Security Risk Management can practically and significantly impro
 ## Helpful Resources
 
 [RansomwareLive](https://www.ransomware.live "RansomwareLive")
-- RansomwareLive is a collaction of publicly disclosed ransomware data, from ransomware gangs (e.g. not fully verified in all cases), including an up to date list of hacked organisations, and ransomware negociation chat logs.
+- RansomwareLive is a collaction of publicly disclosed ransomware data, from ransomware gangs (e.g. not fully verified in all cases), including an up to date list of hacked organisations, and ransomware negotiation chat logs.
 
 [VxUnderground](https://vxunderground.org "VxUnderground") 
 - Virus Exchange Underground, the largest collection of malware source code, samples, and papers on the internet.
