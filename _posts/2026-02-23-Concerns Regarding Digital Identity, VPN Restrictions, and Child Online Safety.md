@@ -10,14 +10,14 @@ image:
 ---
 
 # Concerning News
-I'm very concerned about the current implementation of the UK's Online Safety Act and the emerging digital identity framework, particularly in relation to child protection, fairness, civil liberties, and recent proposals relating to VPN restrictions.
+I'm very concerned about the current implementation of the UK's Online Safety Act and the emerging digital identity framework, particularly in relation to fairness, civil liberties, and recent proposals relating to VPN restrictions.
 
-While I fully support the goal of making the internet safer for young people, I'm increasingly worried that the direction being taken, both in enforcement and in future proposals, may unintentionally harm the very groups we most want to protect, while entrenching inequality and normalising mass surveillance of ordinary people. 
+While I fully support the goal of making the internet safer, I'm worried that the direction being taken, which may unintentionally harm the very groups we most want to protect, while expanding inequality and normalising mass surveillance of ordinary people. 
 
 The current direction of travel appears to risk undermining privacy, digital rights, and even child protection itself.
 
 ## Digital identity and the risk of marginalising vulnerable and low‑income people
-Digital identity schemes rely on access to devices, stable documentation, and digital literacy, resources that many vulnerable or low‑income people do not consistently have. 
+Digital identity schemes rely on access to smart devices, stable documentation (e.g., proof of address and phyiscal IDs), and digital literacy, resources that many vulnerable or marginalised groups do not have. 
 
 Civil liberties groups have already warned that digital ID requirements would marginalise those without smartphones, people with limited understanding of current technologies, those experiencing homelessness, or anyone with incomplete documentation. These groups already face structural disadvantages. 
 
@@ -32,18 +32,18 @@ Civil liberties groups have already warned that digital ID requirements would ma
 
 This demonstrates that digital identity–dependent systems disproportionately exclude low‑income groups.
 
-A system that ties full participation in public life, employment, housing, healthcare access, and even buying a train ticket, to digital identity checks risks deepening inequality rather than alleviating it.
+A system that ties full participation in public life (including employment, housing, healthcare access, and even potenatially buying a train ticket) to digital identity checks risks deepening inequality rather than alleviating it.
 
-When digital identity becomes a gatekeeper to daily life, those on the margins fall further behind.
+When digital identity becomes a gatekeeper to daily life, those on the margins before the sacrificial lamb.
 
 ## The Online Safety Act’s uneven enforcement leaves children unprotected
 The UK’s digital ID and age‑verification framework is already in place, but due to technological realities, people can use simple means to bypass this poorly thought through "solution".
 
 A quick search for the trivial and laughable bypasses for the current age verification approach will show people successfully:
-- holding up a photo to their camera during age verification checks
-- using video game characters during age verification checks
-- using their thumb with a smiley face drawn on it during age verification checks
-- using adblockers to bypass the age verifcation pop-up
+- holding up a photo to their camera during age verification checks,
+- using video game characters during age verification checks,
+- using their thumb with a smiley face drawn on it during age verification checks (lol),
+- using adblockers to bypass the age verifcation pop-up.
 
 This current implementation is also inconsistent. As just one concerning example, 4chan (4chan.org), an imageboard notorious for hosting harmful and, in some cases, illegal (CSAM) material, has refused to comply with the Act’s age‑verification requirements and has been investigated, warned, and even fined by Ofcom for failing to implement the UK's current age check solution. 
 
@@ -60,7 +60,7 @@ Privacy advocates, including myself, have warned that these measures are “drac
 This will undermine the essential role VPNs play in securing communications and protecting user privacy. Restricting VPNs will disproportionately harm:
 
 - LGBTQ+ people seeking safe communities,
-- Women seeking safety from abuse and harassment.
+- Women seeking safety from abuse and harassment,
 - Domestic abuse survivors protecting their online footprint,
 - Legal migrants seeking safety from far-right abusers,
 - Whistleblowers, journalists, and activists,
@@ -72,14 +72,13 @@ These are the communities already most at risk of online harms.
 ## Digital ID schemes lead to mass surveillance of ordinary people
 Digital ID systems create the infrastructure for mass data collection and behavioural tracking.
 
-The UK government themselves admitted this in written evidence, warning a centralised digital ID would create an “unprecedented surveillance infrastructure,” fundamentally altering the citizen‑state power balance, citing historical UK abuses (GCHQ bulk interception, Windrush, police misuse of data, etc.). See [Parliment UK Evidence in response to the call for evidence for the inquiry, Harnessing the potential of
-new forms of digital ID](https://committees.parliament.uk/writtenevidence/146929/pdf/).
+The UK government themselves admitted this in written evidence, warning a centralised digital ID would create an “unprecedented surveillance infrastructure,” fundamentally altering the citizen‑state power balance, citing historical UK abuses (GCHQ bulk interception, Windrush, police misuse of data, etc.). See [Parliment UK Evidence in response to the call for evidence for the inquiry, Harnessing the potential of new forms of digital ID](https://committees.parliament.uk/writtenevidence/146929/pdf/).
 
 Civil liberties groups warn that such systems enable population‑wide surveillance, transforming everyday activities into identity‑verified checkpoints.
 
-The UK doesn't have the best record regarding citizen surveillance, but the introduction of a poorly architected Digital ID tool, without significant safeguards for citizens' rights and privacy, would fundamentally alter the relationship between citizen and state. 
+The UK doesn't have the best record regarding citizen surveillance, but the introduction of a poorly architected Digital ID tool, without significant safeguards for citizens' rights and privacy, would alter the relationship between citizen and state. 
 
-Attacking access to VPNs is the opposite of these safeguards.
+Attacking access to VPNs is the opposite of a functional and effective safeguard.
 
 Instead of targeted interventions against harmful actors, digital identity systems risk creating a default position where the state monitors the daily movements and decisions of every citizen.
 
