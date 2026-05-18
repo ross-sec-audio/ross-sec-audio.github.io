@@ -6,18 +6,19 @@
 // * MIT Licensed
 // *
 
-@use  "colors/light-typography";
-@use  "colors/dark-typography";
+@import  
+  "colors/light-typography",
+  "colors/dark-typography",
 
-@use  "addon/module";
-@use  "addon/variables";
-@use  "variables-hook";
-@use  "addon/syntax";
-@use  "addon/commons";
+  "addon/module",
+  "addon/variables",
+  "variables-hook",
+  "addon/syntax",
+  "addon/commons",
 
-@use  "layout/home";
-@use  "layout/post";
-@use  "layout/tags";
-@use  "layout/archives";
-@use  "layout/categories";
-@use  "layout/category-tag";
+  "layout/home",
+  "layout/post",
+  "layout/tags",
+  "layout/archives",
+  "layout/categories",
+  "layout/category-tag";
