@@ -2,8 +2,8 @@
 * The syntax highlight.
 */
 
-@import "colors/light-syntax";
-@import "colors/dark-syntax";
+@use "colors/light-syntax";
+@use "colors/dark-syntax";
 
 html:not([mode]),
 html[mode=light] {
