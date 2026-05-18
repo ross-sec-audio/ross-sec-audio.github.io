@@ -140,6 +140,8 @@ defaults:
 
 sass:
   style: compressed
+  quiet_deps: true
+  silence_deprecations: ["import"]
 
 compress_html:
   clippings: all
