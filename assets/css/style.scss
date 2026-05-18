@@ -11,7 +11,7 @@ $tab-count: {
 }
 
 ; // plus 1 for home tab
-@import "{{ site.theme }}";
+@use "{{ site.theme }}";
 
 /* append your custom style below */
 
