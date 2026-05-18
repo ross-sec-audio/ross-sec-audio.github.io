@@ -4,6 +4,16 @@ icon: fas fa-info-circle
 order: 3
 ---
 
+![Coffee](/assets/img/imgs/art/coffee.jpg)
+
+![Meersbrook](/assets/img/imgs/art/meersbrook.jpg)
+
+![Road](/assets/img/imgs/art/road.jpg)
+
+![Shed](/assets/img/imgs/art/shed.jpg)
+
+![Fog](/assets/img/imgs/art/fog.jpg)
+
 ![Prawn](/assets/img/imgs/art/prawn.jpg)
 
 ![Squirrel](/assets/img/imgs/art/Squirrel.png)
